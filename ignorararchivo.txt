@@ -1,0 +1,1 @@
+se ingresa el codigo cat .gitignore y las reglas de los archivos a ignorar
